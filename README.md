@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ![EunnHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=taemin4u&show_icons=true&theme=merko)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taemin4u)](https://solved.ac/taemin4u/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin4u&layout=compact&theme=tokyonight)
