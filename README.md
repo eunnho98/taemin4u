@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=taemin4u)](https://solved.ac/taemin4u/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin4u&langs_count=5&layout=compact&theme=dark)](https://github.com/taemin4u)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taemin4u&langs_count=5&layout=compact&theme=dark)](https://github.com/taemin4u/taemin4u)
