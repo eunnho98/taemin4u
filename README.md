@@ -31,7 +31,3 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
-<br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=taemin4u)](https://solved.ac/taemin4u)
